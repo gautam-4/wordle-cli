@@ -11,5 +11,5 @@ pip install wordle-cli
 
 Run the game with:
 ```
-wordle-cli
+wordle
 ```
