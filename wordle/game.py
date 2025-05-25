@@ -44,7 +44,7 @@ def get_feedback(secret, guess):
 
 def main():
     try:
-        repeat = True;
+        repeat = True
         while repeat:
             words = load_words("words.txt")
             valid_words = load_words("valid.txt")
@@ -87,9 +87,9 @@ def main():
             print(f"❌ Out of tries! The word was: {secret_word}")
             
             print("\nDo you want to play again (y/n)")
-            play_again = input().strip().lower();
+            play_again = input().strip().lower()
             if play_again != "y":
-                repeat = False;
+                repeat = False
 
     except KeyboardInterrupt:
         print("\nexiting...")
