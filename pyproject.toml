@@ -1,6 +1,6 @@
 [project]
 name = "wordle-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wordle game for your terminal"
 readme = "README.md"
 authors = [

@@ -52,6 +52,7 @@ def main():
 
             f = Figlet(font='slant')
             print(f.renderText("wordle-cli!"))
+            print("by gautam-4\n\n")
             attempts = []
 
             for turn in range(1, MAX_TRIES + 1):
