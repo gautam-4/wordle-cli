@@ -1,6 +1,6 @@
 # Wordle-cli
 
-Wordle game for your terminal.Guess the secret 5-letter word within 6 tries.
+Wordle game for your terminal.
 
 ## Installation and usage
 Install the game using:
